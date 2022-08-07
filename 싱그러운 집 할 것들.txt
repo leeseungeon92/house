@@ -1,8 +1,0 @@
-<싱그러운 집>
-
-가이드북 슬라이드(768px)
-
-
-https://codesandbox.io/s/swiper-scroll-container-forked-1w4myg?file=/index.html 
-
-(참고)
